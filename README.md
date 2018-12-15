@@ -25,6 +25,6 @@ ezviz:
 - [获取设备序列号: https://open.ys7.com/console/device.html](https://open.ys7.com/console/device.html)
 - [获取应用的AppKey和Secret: https://open.ys7.com/console/application.html](https://open.ys7.com/console/application.html)
 
-**附**
+## 附
 需要支持更多功能，可以提issue，陆续补充
 最后推荐组件 https://github.com/haoctopus/molobot 组件，可以不需要公网ip的情况下支持天猫精灵控制
